@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+from gym.envs.registration import register
+register(
+    id='CarlaEnv-v0',
+    entry_point='My_Environments.Carla.carla_env:CarlaEnv'
+)

@@ -1,0 +1,14 @@
+[
+"Encoder/enc_conv1/kernel:0",
+"Encoder/enc_conv1/bias:0",
+"Encoder/enc_conv2/kernel:0",
+"Encoder/enc_conv2/bias:0",
+"Encoder/enc_conv3/kernel:0",
+"Encoder/enc_conv3/bias:0",
+"Encoder/enc_conv4/kernel:0",
+"Encoder/enc_conv4/bias:0",
+"Encoder/enc_mu/kernel:0",
+"Encoder/enc_mu/bias:0",
+"Encoder/enc_log_var/kernel:0",
+"Encoder/enc_log_var/bias:0"
+]
